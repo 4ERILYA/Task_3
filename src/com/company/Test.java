@@ -10,6 +10,7 @@ public class Test {
     private static final int[] pointWhite = {-11, 8};// WHITE
 
     public static void testCases() {
+
         Main.printColorForPrint(pointBlue[0], pointBlue[1]);
         Main.printColorForPrint(pointBlue2[0], pointBlue2[1]);
         Main.printColorForPrint(pointGray[0], pointGray[1]);

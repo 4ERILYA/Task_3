@@ -1,11 +1,11 @@
 package com.company;
 
-public class ParabolaX {
+public class ParabolaVertical {
     public double x0;
     public double y0;
     public double a;
 
-    public ParabolaX(double x0, double y0, double a) {
+    public ParabolaVertical(double x0, double y0, double a) {
         this.x0 = x0;
         this.y0 = y0;
         this.a = a;
